@@ -1,4 +1,4 @@
-# TypeScript Breakout
+# TypeScript Phaser Breakout
 Phaser and Typescript Breakout game. Written in Visual Studio Code.
 
 EDIT 2025: Updated to the new versions.
