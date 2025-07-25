@@ -1,0 +1,70 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.pnpm-store/
+package-lock.json # If you're using npm, keep this. If you only use yarn, you can remove it.
+
+# TypeScript
+# Compiled JavaScript files
+*.js
+*.jsx
+*.d.ts
+!src/**/*.d.ts # Keep declaration files in src if they are source, not generated
+
+# Maps
+*.js.map
+*.jsx.map
+
+# Visual Studio Code
+.vscode/
+# Add common VS Code files to ignore
+.vscode/*.code-workspace
+.vscode/.DS_Store
+.vscode/settings.json # Often project-specific, but can be ignored if personal
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json # Can be ignored if personal
+.vscode/cmake-kits.json
+.vscode/ipch/
+.vscode/Browse.VC.db
+.vscode/*.log
+
+# Build output
+dist/
+build/
+out/
+public/build/ # Common output folder for web projects
+temp/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!*.env.example # Keep example files for environment variables
+
+# Editor-specific files
+*.sublime-project
+*.sublime-workspace
+.idea/ # IntelliJ IDEA
+.project # Eclipse
+.classpath # Eclipse
+.settings/ # Eclipse
+
+# Phaser specific (if any generated during development)
+# This section might need customization based on your specific Phaser setup
+# For example, if Phaser generates cache files or temporary assets.
+# Generally, Phaser itself doesn't generate many files that need ignoring
+# beyond the standard build outputs.
+# If you have a specific asset pipeline that generates files you don't commit, add them here.
