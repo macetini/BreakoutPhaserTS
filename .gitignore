@@ -33,7 +33,6 @@ package-lock.json # If you're using npm, keep this. If you only use yarn, you ca
 .vscode/*.log
 
 # Build output
-dist/
 build/
 out/
 public/build/ # Common output folder for web projects
