@@ -1,18 +1,63 @@
-# TypeScript Phaser Breakout
-Phaser and Typescript Breakout game. Written in Visual Studio Code.
+# Breakout Game with Phaser & TypeScript
 
-EDIT 2025: Updated to the new versions.
+A modern Breakout game built using [Phaser 3](https://phaser.io/) and [TypeScript](https://www.typescriptlang.org/).  
+Developed in [Visual Studio Code](https://code.visualstudio.com/).
 
-Typescript 5.8.3<br />
-Phaser 3.90.0<br />
-webpack-plugin 4.0.0
+**Latest Update (2025):**  
+Upgraded to the latest versions:
+- **TypeScript**: 5.8.3
+- **Phaser**: 3.90.0
+- **webpack-plugin**: 4.0.0
 
-A demo is available below.
-[http://macetini.atwebpages.com/brakeout/](https://macetini.github.io/BreakoutPhaserTS/dist/)
+---
 
-To build, call: <br />
-npm install<br />
-npm run build<br />
-npm start
+## 🎮 Demo
 
-<img width="821" height="620" alt="brake" src="https://github.com/user-attachments/assets/c926e8d1-2cd4-413b-8957-df7ee12ecc62" />
+Try the live demo:  
+[Play Now](https://macetini.github.io/BreakoutPhaserTS/dist/)
+
+---
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/macetini/BreakoutPhaserTS.git
+cd BreakoutPhaserTS
+npm install
+```
+
+Build and run the project:
+
+```bash
+npm run build      # Build the project
+npm start          # Start the development server
+```
+
+---
+
+## 🖼️ Screenshot
+
+<img width="821" height="620" alt="Breakout gameplay screenshot" src="https://github.com/user-attachments/assets/c926e8d1-2cd4-413b-8957-df7ee12ecc62" />
+
+---
+
+## 📝 Features
+
+- Classic Breakout gameplay
+- Built with modern TypeScript and Phaser
+- Configurable and extendable game logic
+- Includes a webpack build setup
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 💡 Author
+
+Created by [macetini](https://github.com/macetini)
