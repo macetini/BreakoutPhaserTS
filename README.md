@@ -7,8 +7,8 @@ Typescript 5.8.3<br />
 Phaser 3.90.0<br />
 webpack-plugin 4.0.0
 
-A demo is available below. (Using a free hosting service without an SSL certificate.)<br />
-http://macetini.atwebpages.com/brakeout/
+A demo is available below.
+[http://macetini.atwebpages.com/brakeout/](https://macetini.github.io/BreakoutPhaserTS/dist/)
 
 To build, call: <br />
 npm install<br />
